@@ -1,3 +1,1 @@
-# RiskNET_original
-
-Original dev. code by Tim Schoonbeek. Reproducability test!
+**Exploratory data analysis on Real Estate data**
